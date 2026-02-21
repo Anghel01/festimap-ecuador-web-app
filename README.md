@@ -62,7 +62,7 @@ npm install
 ```
 Create a `.env` file in the `server` folder:
 ```env
-PORT=3000
+PORT=8000
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_super_secret_jwt
 ```
@@ -115,7 +115,7 @@ WEB
 
 MOVIL
 
-![WhatsApp Image 2026-02-21 at 10 14 38](https://github.com/user-attachments/assets/23cf9c29-ae13-4d64-8ae1-d9512c424648)
+![WhatsApp Image 2026-02-21 at 10 14 38 (1)](https://github.com/user-attachments/assets/b0da0a77-83d3-437e-b9f8-e7379b0ef808)
 ![WhatsApp Image 2026-02-21 at 10 14 38 (2)](https://github.com/user-attachments/assets/a2dd29c6-2ff3-46a8-be34-531182831a5f)
 ![WhatsApp Image 2026-02-21 at 10 14 38 (3)](https://github.com/user-attachments/assets/40da31cc-9ad1-4f0c-afb8-6252640e140c)
 
